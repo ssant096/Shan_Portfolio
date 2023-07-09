@@ -5,7 +5,7 @@ Final project for Data Analysis Methods class. Used web scraping on data from CN
 
 <img width="750" alt="image" src="https://github.com/ssant096/CNN-Sentiment-Analysis/assets/102336530/0ea88d75-5e90-459f-b3ce-32f109278bd1">
 
-# [Project 2: Data Science Salary Prediction](https://github.com/ssant096/Data-Science-Salary-Prediction)
+# [Project 2: Data Science Salary Model](https://github.com/ssant096/Data-Science-Salary-Prediction)
 Final project for Introduction to Data Science class. Used data collected from ai.jobs.net to made a 10 fold CV model for predicting salaries of data scientists from different countries.
 
 <img width="750" alt="image" src="https://github.com/ssant096/Data-Science-Salary-Prediction/assets/102336530/7697eb79-52bb-446a-8842-f08a1ed69453">
