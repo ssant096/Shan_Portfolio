@@ -1,9 +1,9 @@
 # Shan's Portfolio 
 
-# [Project 1: CNN Sentiment Analysis](https://github.com/ssant096/CNN-Sentiment-Analysis)
-Final project for Data Analysis Methods class. Used web scraping on data from CNN archives to get sentiment on whether news is more positive, negative or neutral for Democrats and Republicans. Used python as the programming language.
+# [Project 1: Value Retention of Vehicles in Inida](https://github.com/ssant096/Value-Retention-for-Vehicles-in-India)
+Final project for linear regression class. Performed linear regression analysis and model fitting on dataset of vehicles sold in India. Dataset was obtained from Kaggle.
 
-<img width="750" alt="image" src="https://github.com/ssant096/CNN-Sentiment-Analysis/assets/102336530/0ea88d75-5e90-459f-b3ce-32f109278bd1">
+<img width="750" alt="image" src="https://github.com/ssant096/Shan_Portfolio/assets/102336530/3521a23d-780b-4528-872b-80401748828f">
 
 # [Project 2: Data Science Salary Model](https://github.com/ssant096/Data-Science-Salary-Prediction)
 Final project for Introduction to Data Science class. Used data collected from aijobs.net to made a 10 fold CV model for determining the most important variables which affect the salary of a data scientist.
