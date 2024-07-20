@@ -5,7 +5,7 @@ Final project for database management systems class. Used sql commands in a java
 
 <img width="550" alt="image" src="https://github.com/ssant096/Shan_Portfolio/assets/102336530/9de9b40b-8c75-4602-b272-84def4af8d84">
 
-# [Project 3: Bias Detection](https://github.com/ssant096/Bias-Detection)
+# [Project 2: Bias Detection](https://github.com/ssant096/Bias-Detection)
 Final Project for Data Science Ethics class. Analyzed bias in a UCI machine learning repository dataset on diabetes.
 
 <img width="750" alt="image" src="https://github.com/ssant096/Shan_Portfolio/assets/102336530/32163778-5ff2-48c6-aa59-a54cf714ffb0">
